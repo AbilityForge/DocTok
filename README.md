@@ -1,7 +1,7 @@
 # Doctok
 DocTok: Creating Chatbots for Technical Documentation
 
-[APP](https://doctok-chatbot.streamlit.app/)
+[APP](https://ability-forge-doctok.streamlit.app/)
 
 ## Overview
 
