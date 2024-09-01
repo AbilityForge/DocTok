@@ -31,7 +31,7 @@ with st.sidebar:
     # Links
     "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
     "[Get a Pinecone API key](https://app.pinecone.io/)"
-    "[![Open GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github)](https://github.com/JPsToolbox/Doctok)"
+    "[![Open GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github)](https://github.com/AbilityForge/DocTok)"
 
 
 
