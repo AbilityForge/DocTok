@@ -25,10 +25,6 @@ where quick and precise access to information is critical. The project aims to r
 navigate through complex documentation.
 """)
 
-# Add personal details
-st.header("Project By")
-st.write("**Name:** Parva J Shah")
-st.write("**NUID:** 002916822")
 
 # Add footer or any other information you'd like to include
 st.write("For more information, explore the different sections of this application.")
